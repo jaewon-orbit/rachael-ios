@@ -1,6 +1,11 @@
 # rachael-ios
 Rachael, your subscription manager for iOS.
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # Actively updated weekly.
 
 ## progress notes May 10th, 2026.
@@ -15,19 +20,20 @@ Just built the first and second tab roughly. used codex and claude pro. Sometime
 5. bottom menu bar
 
 ## Screenshots
-
+calendar tab
 <p align="center">
   <img src="./screenshots/screenshot1.png" width="220"/>
   <img src="./screenshots/screenshot2.png" width="220"/>
   <img src="./screenshots/screenshot3.png" width="220"/>
-</p>
-
-<p align="center">
   <img src="./screenshots/screenshot4.png" width="220"/>
+</p>
+slider in calendar tab
+<p align="center">
   <img src="./screenshots/screenshot5.png" width="220"/>
   <img src="./screenshots/screenshot6.png" width="220"/>
 </p>
 
+stack view tab
 <p align="center">
   <img src="./screenshots/screenshot7.png" width="220"/>
 </p>
