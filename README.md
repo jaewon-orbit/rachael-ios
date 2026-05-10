@@ -4,7 +4,7 @@ Rachael, your subscription manager for iOS.
 # Actively updated weekly.
 
 # progress notes May 10th, 2026.
-Just built the first and second tab roughly. used codex and claude pro. Sometimes error occurrs when we switch the AI tool. Noticed that the code made by claude looks more smoother. but codex has more token. codex is better for the first scratch and clude is better for improvement. But claude removed my whole project through rm-rf. My bad for the allowance, but now I am trying to make distance from cluade. this is the reason why I quickly equip configuration to Rachael through github. I re-built it from the bottom with codex. AI works great for debugging. But still, we need to control it.
+Just built the first and second tab roughly. used codex and claude pro. Sometimes error occurs when we switch the AI tool. Noticed that the code made by claude looks more smoother. but codex has more token. codex is better for the first scratch and clude is better for improvement. But claude removed my whole project through rm-rf. My bad for the allowance, but now I am trying to make distance from cluade. this is the reason why I quickly equip configuration to Rachael through github. I re-built it from the bottom with codex. AI works great for debugging. But still, we need to control it.
 (Once I asked AI to build app image as checked-outline icon, AI made it as upside down. Need to flip upsidedown.)
 
 # features implemented so far
