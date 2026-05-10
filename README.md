@@ -58,7 +58,8 @@ Just built the first and second tab roughly. used codex and claude pro. Sometime
 - Scanline texture background effect.
 
 </details>
-
+<br>
+<br>
 ### Screenshots
 <p align="center"> calendar tab </p>
 <p align="center">
