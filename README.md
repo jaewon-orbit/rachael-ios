@@ -17,7 +17,7 @@ Just built the first and second tab roughly. used codex and claude pro. Sometime
 5. bottom menu bar
 
 ### Screenshots
-calendar tab
+<p align="center"> calendar tab </p>
 <p align="center">
   <img src="./screenshots/screenshot1.png" width="220"/>
   <img src="./screenshots/screenshot2.png" width="220"/>
@@ -26,14 +26,14 @@ calendar tab
 </p>
 <br>
 <br>
-slider in calendar tab
+<p align="center"> slider in calendar tab </p>
 <p align="center">
   <img src="./screenshots/screenshot5.png" width="220"/>
   <img src="./screenshots/screenshot6.png" width="220"/>
 </p>
 <br>
 <br>
-stack view tab
+<p align="center"> stack view tab </p>
 <p align="center">
   <img src="./screenshots/screenshot7.png" width="220"/>
 </p>
