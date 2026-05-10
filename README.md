@@ -9,12 +9,39 @@ Rachael, your subscription manager for iOS.
 Just built the first and second tab roughly. used codex and claude pro. Sometimes error occurs when we switch the AI tool. Noticed that the code made by claude looks more smoother. but codex has more token. codex is better for the first scratch and clude is better for improvement. But claude removed my whole project through rm-rf. My bad for the allowance, but now I am trying to make distance from cluade. this is the reason why I quickly equip configuration to Rachael through github. I re-built it from the bottom with codex. AI works great for debugging. But still, we need to control it.
 (Once I asked AI to build app image as checked-outline icon, AI made it as upside down. Need to flip upsidedown.)
 
-### features implemented so far
-1. calendar - year, month navigation. red arrows for month navigation. home icon for jumping to current date.
-2. slider - options for the subscription detail, logic for the slider adjustment through handle.
-3. stack view - last-in goes to the top. stacks adjusted through hold and release.  
-4. animation - red arrows, year, month, slider, brackets moving to stay focused.
-5. bottom menu bar
+### Features Implemented So Far
+
+- **Calendar tab**
+  - Monthly subscription calendar view.
+  - Year/month navigation with animated red triangle arrows.
+  - Home button to instantly return to the current date.
+  - Day selection with animated green scan lines moving horizontally and vertically toward the selected day.
+  - Blinking border animation around the selected date.
+  - Year/month picker overlays with animated corner brackets.
+
+- **New subscription slider**
+  - Bottom sheet opens from the calendar screen.
+  - Expand, collapse, and dismiss interactions through drag gestures.
+  - Animated corner brackets that resize with the slider.
+  - Add and cancel actions for subscriptions.
+  - Input rows for amount, currency, name, description, category, and color.
+  - “More options” section expands additional fields.
+  - Extra fields automatically collapse when the slider is minimized.
+
+- **Stack view tab**
+  - Subscription stack/list view.
+  - Newly added subscriptions appear at the top.
+  - Dark futuristic UI with green borders, scanline overlays, and monospaced text.
+  - Long-press and drag to reorder subscriptions.
+  - Dragged item follows finger movement with animated green highlight feedback.
+  - Subscription name, currency, and amount displayed in a single row.
+  - Summary section with total and average yearly expense display.
+
+- **Bottom tab bar**
+  - Three tabs: calendar, stack/log, and settings.
+  - Active tab icon highlighted in green.
+  - Animated targeting brackets move between selected tabs.
+  - Scanline texture background effect.
 
 ### Screenshots
 <p align="center"> calendar tab </p>
