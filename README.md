@@ -3,9 +3,6 @@ Rachael, your subscription manager for iOS.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 # Actively updated weekly.
 
 ## progress notes May 10th, 2026.
@@ -27,12 +24,13 @@ calendar tab
   <img src="./screenshots/screenshot3.png" width="220"/>
   <img src="./screenshots/screenshot4.png" width="220"/>
 </p>
+<br>
 slider in calendar tab
 <p align="center">
   <img src="./screenshots/screenshot5.png" width="220"/>
   <img src="./screenshots/screenshot6.png" width="220"/>
 </p>
-
+<br>
 stack view tab
 <p align="center">
   <img src="./screenshots/screenshot7.png" width="220"/>
