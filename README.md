@@ -11,37 +11,53 @@ Just built the first and second tab roughly. used codex and claude pro. Sometime
 
 ### Features Implemented So Far
 
-- **Calendar tab**
-  - Monthly subscription calendar view.
-  - Year/month navigation with animated red triangle arrows.
-  - Home button to instantly return to the current date.
-  - Day selection with animated green scan lines moving horizontally and vertically toward the selected day.
-  - Blinking border animation around the selected date.
-  - Year/month picker overlays with animated corner brackets.
+<details>
+<summary><strong>Calendar tab</strong></summary>
 
-- **New subscription slider**
-  - Bottom sheet opens from the calendar screen.
-  - Expand, collapse, and dismiss interactions through drag gestures.
-  - Animated corner brackets that resize with the slider.
-  - Add and cancel actions for subscriptions.
-  - Input rows for amount, currency, name, description, category, and color.
-  - “More options” section expands additional fields.
-  - Extra fields automatically collapse when the slider is minimized.
+- Monthly subscription calendar view.
+- Year/month navigation with animated red triangle arrows.
+- Home button to instantly return to the current date.
+- Day selection with animated green scan lines moving horizontally and vertically toward the selected day.
+- Blinking border animation around the selected date.
+- Year/month picker overlays with animated corner brackets.
 
-- **Stack view tab**
-  - Subscription stack/list view.
-  - Newly added subscriptions appear at the top.
-  - Dark futuristic UI with green borders, scanline overlays, and monospaced text.
-  - Long-press and drag to reorder subscriptions.
-  - Dragged item follows finger movement with animated green highlight feedback.
-  - Subscription name, currency, and amount displayed in a single row.
-  - Summary section with total and average yearly expense display.
+</details>
 
-- **Bottom tab bar**
-  - Three tabs: calendar, stack/log, and settings.
-  - Active tab icon highlighted in green.
-  - Animated targeting brackets move between selected tabs.
-  - Scanline texture background effect.
+<details>
+<summary><strong>New subscription slider</strong></summary>
+
+- Bottom sheet opens from the calendar screen.
+- Expand, collapse, and dismiss interactions through drag gestures.
+- Animated corner brackets that resize with the slider.
+- Add and cancel actions for subscriptions.
+- Input rows for amount, currency, name, description, category, and color.
+- “More options” section expands additional fields.
+- Extra fields automatically collapse when the slider is minimized.
+
+</details>
+
+<details>
+<summary><strong>Stack view tab</strong></summary>
+
+- Subscription stack/list view.
+- Newly added subscriptions appear at the top.
+- Dark futuristic UI with green borders, scanline overlays, and monospaced text.
+- Long-press and drag to reorder subscriptions.
+- Dragged item follows finger movement with animated green highlight feedback.
+- Subscription name, currency, and amount displayed in a single row.
+- Summary section with total and average yearly expense display.
+
+</details>
+
+<details>
+<summary><strong>Bottom tab bar</strong></summary>
+
+- Three tabs: calendar, stack/log, and settings.
+- Active tab icon highlighted in green.
+- Animated targeting brackets move between selected tabs.
+- Scanline texture background effect.
+
+</details>
 
 ### Screenshots
 <p align="center"> calendar tab </p>
