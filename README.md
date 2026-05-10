@@ -17,9 +17,6 @@ Just built the first and second tab roughly. used codex and claude pro. Sometime
 # Screenshots
 ![Rachael Calendar_tab](Assets/screenshot1.png)
 
-# Screenshot - Second tab.
-![Rachael Stack_view tab](Assets/screenshot3.png)
-
 
 # Upcoming Updates
  - simplified bottom tab bar
