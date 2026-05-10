@@ -4,14 +4,21 @@
 
 ## User settings
 xcuserdata/
+*.xcuserstate
 
 ## Obj-C/Swift specific
 *.hmap
 
 ## App packaging
 *.ipa
-*.dSYM.zip
+*.app
 *.dSYM
+*.dSYM.zip
+
+## Build products
+DerivedData/
+build/
+Products/
 
 ## Playgrounds
 timeline.xctimeline
@@ -60,3 +67,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# macOS
+.DS_Store
