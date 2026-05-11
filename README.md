@@ -4,6 +4,8 @@ Rachael, your subscription manager for iOS.
 <br>
 <p align="center">
   <img src="./Rachael/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="220"/>
+</p>
+<p align="center">
   <img src="./screenshots/screenshot8.png" width="220"/>
 </p>
 <br>
