@@ -1,5 +1,8 @@
 # Rachael
 Rachael, your subscription manager for iOS.
+<p align="center">
+  <img src="./screenshots/screenshot1.png" width="220"/>
+</p>
 <br>
 <br>
 <br>
