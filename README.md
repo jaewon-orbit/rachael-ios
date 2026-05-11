@@ -1,4 +1,4 @@
-# rachael-ios
+# Rachael
 Rachael, your subscription manager for iOS.
 <br>
 <br>
