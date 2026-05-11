@@ -2,12 +2,11 @@
 Rachael, your subscription manager for iOS.
 <br>
 <br>
+<br>
 <p align="center">
   <p>app image</p>
   <img src="./Rachael/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="220"/>
 </p>
-<br>
-<br>
 <br>
 <p align="center">
   <p> app concept </p>
