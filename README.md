@@ -3,6 +3,7 @@ Rachael, your subscription manager for iOS.
 <br>
 <br>
 <p align="center">
+  <img src="./Rachael/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="220"/>
   <img src="./screenshots/screenshot8.png" width="220"/>
 </p>
 <br>
