@@ -5,7 +5,7 @@ Bracket, your subscription manager for iOS.
 <br>
 <p align="center">
   <p>app image</p>
-  <img src="./Rachael/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="220"/>
+  <img src="./Bracket/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="220"/>
 </p>
 <br>
 <p align="center">
