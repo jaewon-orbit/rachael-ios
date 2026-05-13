@@ -1,5 +1,5 @@
-# Rachael
-Rachael, your subscription manager for iOS.
+# Bracket
+Bracket, your subscription manager for iOS.
 <br>
 <br>
 <br>
@@ -17,8 +17,13 @@ Rachael, your subscription manager for iOS.
 <br>
 ## Actively updated weekly.
 
+### progress notes May 13th, 2026.
+Why is the name Bracket? The bracket motif has been central to the product from the start — corner brackets frame the calendar grid, animate across the tab bar, and resize with the subscription slider. The name reflects the design DNA of the app. Bracket also carries an implicit meaning: to bracket something is to focus on it, to isolate and manage it with precision. That's exactly what this app does with subscriptions.
+
+At first, the original name was Rachael, a character I got inspired by from Blade Runner — hoping that this subscription manager feels not just like an app but like a real manager itself. But renamed to Bracket to focus more on the product itself. The Blade Runner aesthetic (Esper, Tyrell) stays as the design theme.
+
 ### progress notes May 10th, 2026.
-Just built the first and second tab roughly. used codex and claude pro. Sometimes error occurs when we switch the AI tool. Noticed that the code made by claude looks more smoother. but codex has more token. codex is better for the first scratch and clude is better for improvement. But claude removed my whole project through rm-rf. My bad for the allowance, but now I am trying to make distance from cluade. this is the reason why I quickly equip configuration to Rachael through github. I re-built it from the bottom with codex. AI works great for debugging. But still, we need to control it.
+Just built the first and second tab roughly. used codex and claude pro. Sometimes error occurs when we switch the AI tool. Noticed that the code made by claude looks more smoother. but codex has more token. codex is better for the first scratch and clude is better for improvement. But claude removed my whole project through rm-rf. My bad for the allowance, but now I am trying to make distance from cluade. this is the reason why I quickly equip configuration to Bracket through github. I re-built it from the bottom with codex. AI works great for debugging. But still, we need to control it.
 (Once I asked AI to build app image as checked-outline icon, AI made it as upside down. Need to flip upsidedown.)
 
 ### Features Implemented So Far

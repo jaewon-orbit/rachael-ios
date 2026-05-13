@@ -10,9 +10,9 @@ struct ContentView: View {
             Group {
                 switch selectedTab {
                 case 0:
-                    RachaelCalendarView(subscriptions: $subscriptions)
+                    BracketCalendarView(subscriptions: $subscriptions)
                 case 1:
-                    RachaelStackView(subscriptions: $subscriptions)
+                    BracketStackView(subscriptions: $subscriptions)
                 case 2:
                     Text("SETTINGS")
                         .foregroundColor(Color.tyrell.primary)

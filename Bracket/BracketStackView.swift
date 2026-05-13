@@ -1,11 +1,11 @@
 //
-//  RachaelStackView.swift
-//  Rachael
+//  BracketStackView.swift
+//  Bracket
 //
 
 import SwiftUI
 
-struct RachaelStackView: View {
+struct BracketStackView: View {
     @Binding var subscriptions: [Subscription]
 
     @State private var draggingSubscriptionID: UUID?
@@ -324,6 +324,6 @@ struct SubscriptionCardRow: View {
 }
 
 #Preview {
-    RachaelStackView(subscriptions: .constant(Subscription.sampleData))
+    BracketStackView(subscriptions: .constant(Subscription.sampleData))
         .preferredColorScheme(.dark)
 }

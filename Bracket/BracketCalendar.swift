@@ -1,5 +1,5 @@
-// RachaelCalendar.swift
-// Rachael — Subscription Calendar
+// BracketCalendar.swift
+// Bracket — Subscription Calendar
 // Aesthetic: Tyrell Corp / Esper Machine (Blade Runner 1982)
 //
 // Drop this file into your Xcode project.
@@ -153,7 +153,7 @@ struct Subscription: Identifiable {
 
 // MARK: - Main Calendar View
 
-struct RachaelCalendarView: View {
+struct BracketCalendarView: View {
     enum SliderDetent {
         case collapsed
         case expanded
@@ -639,7 +639,7 @@ struct RachaelCalendarView: View {
                         }
                     }
 
-                RachaelSubscriptionSlider(
+                BracketSubscriptionSlider(
                     selectedDate: selectedDate,
                     name: $newSubscriptionName,
                     amount: $newSubscriptionAmount,
@@ -1449,6 +1449,6 @@ extension Subscription {
 // MARK: - Preview
 
 #Preview {
-    RachaelCalendarView(subscriptions: .constant(Subscription.sampleData))
+    BracketCalendarView(subscriptions: .constant(Subscription.sampleData))
         .preferredColorScheme(.dark)
 }

@@ -1,11 +1,11 @@
 //
-//  RachaelSubscriptionSlider.swift
-//  Rachael
+//  BracketSubscriptionSlider.swift
+//  Bracket
 //
 
 import SwiftUI
 
-struct RachaelSubscriptionSlider: View {
+struct BracketSubscriptionSlider: View {
     let selectedDate: Date?
 
     @Binding var name: String
