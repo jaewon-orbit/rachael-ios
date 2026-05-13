@@ -26,7 +26,7 @@ ultimately helping users isolate and manage the subscriptions that truly matter.
 At first, the original name was Rachael, a character I got inspired by from Blade Runner — hoping that this subscription manager feels not just like an app but like a real manager itself. But renamed to Bracket to focus more on the product itself.
 
 <p align="center">
-  <p> original name was Rachael </p>
+  <p>  </p>
   <img src="./screenshots/screenshot8.png" width="110"/>
 </p>
 
