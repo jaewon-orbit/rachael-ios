@@ -24,7 +24,7 @@ The bracket motif has been central to the product from the start — corner brac
 At first, the original name was Rachael, a character I got inspired by from Blade Runner — hoping that this subscription manager feels not just like an app but like a real manager itself. But renamed to Bracket to focus more on the product itself.
 
 <p align="center">
-  <p> app concept </p>
+  <p> original name was Rachael </p>
   <img src="./screenshots/screenshot8.png" width="110"/>
 </p>
 
