@@ -19,7 +19,9 @@ Bracket, your subscription manager for iOS.
 
 ### progress notes May 13th, 2026.
 Why is the name Bracket? 
-The bracket motif has been central to the product from the start — corner brackets frame the calendar grid, animate across the tab bar, and resize with the subscription slider. The name reflects the design DNA of the app. Bracket also carries an implicit meaning: to bracket something is to focus on it, to isolate and manage it with precision. That's exactly what this app does with subscriptions.
+Bracket is named after its core motif, the bracket. 
+Wanted to pursue a design philosophy that reflects the app’s goal by using brackets to visually represent the user’s focus, 
+ultimately helping users isolate and manage the subscriptions that truly matter.
 
 At first, the original name was Rachael, a character I got inspired by from Blade Runner — hoping that this subscription manager feels not just like an app but like a real manager itself. But renamed to Bracket to focus more on the product itself.
 
